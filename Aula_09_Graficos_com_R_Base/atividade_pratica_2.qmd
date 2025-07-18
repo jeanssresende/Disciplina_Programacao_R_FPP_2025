@@ -1,0 +1,52 @@
+---
+title: "Exercício de Aplicação: Análise Exploratória de Carros"
+author: "Jean Resende"
+format: html
+editor: visual
+---
+
+# Cenário:
+
+Você tem a tarefa de analisar um conjunto de dados de carros para entender as características principais de sua performance e design. Sua equipe quer respostas para algumas perguntas específicas e você decidiu usar a visualização de dados como sua principal ferramenta.
+
+# Dados
+
+Você usará o dataset `mtcars`, que já vem com o R. Ele contém 32 observações (carros) e 11 variáveis, incluindo:
+
+-   `mpg`: milhas por galão (consumo)
+
+-   `cyl`: número de cilindros
+
+-   `hp`: cavalos de potência
+
+-   `wt`: peso (em milhares de libras)
+
+-   `am`: tipo de transmissão (0 = automática, 1 = manual)
+
+# Instruções para o Exercício
+
+Para cada uma das perguntas abaixo, escolha o tipo de gráfico mais adequado e crie a visualização usando as funções do R Base. Lembre-se de adicionar títulos, rótulos de eixos e, se necessário, cores para tornar os gráficos mais claros.
+
+1.  **Pergunta:** Como o consumo de combustível (`mpg`) está distribuído entre todos os carros da amostra? A maioria dos carros tem um consumo parecido, ou há uma grande variação?
+
+    ```{r}
+
+    ```
+
+2.  **Pergunta:** Existe uma relação entre o peso (`wt`) do carro e a sua potência (`hp`)? Carros mais pesados tendem a ser mais potentes?
+
+    ```{r}
+
+    ```
+
+3.  **Pergunta:** A transmissão manual (`am=1`) tem uma média de consumo (`mpg`) diferente da transmissão automática (`am=0`)? Qual a diferença na distribuição do consumo entre os dois tipos de transmissão?
+
+    ```{r}
+
+    ```
+
+4.  **Pergunta:** Qual o número de cilindros mais comum entre os carros desta amostra?
+
+    ```{r}
+
+    ```

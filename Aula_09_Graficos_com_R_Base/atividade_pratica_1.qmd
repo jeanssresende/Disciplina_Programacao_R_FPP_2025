@@ -1,0 +1,36 @@
+---
+title: "Atividade Prática 01"
+author: "Jean Resende"
+format: pdf
+editor: visual
+---
+
+Utilize o dataset `iris` para a produção dos gráficos
+
+# Exercício 01
+
+Crie um histograma para a variavel "Sepal.Length". Adicione um título e rótulos de eixos.
+
+```{r}
+
+```
+
+# Exercício 02
+
+Crie um boxplot para a variável 'Petal.Length', mas compare a distribuição entre as diferentes espécies ('Species'). Use a notação y \~ x: Petal.Length \~ Species.
+
+```{r}
+
+```
+
+# Exercício 03
+
+Crie um gráfico de dispersão para explorar a relação entre 'Petal.Length' e 'Sepal.Length'. Adicione títulos e rótulos de eixos.
+
+```{r}
+
+```
+
+# Exercício 04
+
+Crie um gráfico de barras mostrando a contagem de flores para cada espécie.
