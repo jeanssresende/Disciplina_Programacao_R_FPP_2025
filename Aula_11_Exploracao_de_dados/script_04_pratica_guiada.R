@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Aula Bônus: Prática Guiada - Estudo de Caso com o Dataset `msleep`
+# Prática Guiada - Estudo de Caso com o Dataset `msleep`
 #
 # Objetivo: Consolidar os conhecimentos das aulas anteriores em um único projeto.
 #
@@ -14,7 +14,6 @@
 # Este dataset vem com o pacote `ggplot2` e contém dados sobre os padrões de
 # sono de 83 espécies de mamíferos.
 #-------------------------------------------------------------------------------
-
 
 # 0. CONFIGURAÇÃO DO AMBIENTE
 # ------------------------------------
